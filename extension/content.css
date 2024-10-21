@@ -1,0 +1,25 @@
+#bidbuddy-copilot {
+  font-family: 'Inter', sans-serif;
+}
+
+#bidbuddy-copilot h2 {
+  font-size: 18px;
+  margin-bottom: 10px;
+}
+
+#bidbuddy-car-info {
+  margin-bottom: 15px;
+}
+
+#bidbuddy-car-info p {
+  margin: 5px 0;
+  font-size: 14px;
+}
+
+#bidbuddy-open-popup {
+  transition: background-color 0.3s;
+}
+
+#bidbuddy-open-popup:hover {
+  background-color: #45a049;
+}

@@ -1,0 +1,13 @@
+{
+  "manifest_version": 3,
+  "name": "BidBuddy Co-pilot",
+  "version": "1.0",
+  "description": "Quick access to BidBuddy car valuations",
+  "permissions": ["activeTab"],
+  "host_permissions": [
+    "https://tiny-basbousa-fb329f.netlify.app/*"
+  ],
+  "action": {
+    "default_popup": "popup.html"
+  }
+}
